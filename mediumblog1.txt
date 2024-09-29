@@ -1,0 +1,62 @@
+'Well, It's Crypto, It's AI, It's Some Of The Other Things,' Says Donald Trump, Unsure Of What His New Crypto Project Even Is
+&#39;Well, It&#39;s Crypto, It&#39;s AI, It&#39;s Some Of The Other Things,&#39; Says Donald Trump, Unsure Of What His New Crypto Project Even Is
+'Well, It's Crypto, It's AI, It's Some Of The Other Things,' Says Donald Trump, Unsure Of What His New Crypto Project Even Is
+Adrian Volenik
+Sun, September 22, 2024 at 11:00 AM CST 3 min read
+
+After calling Bitcoin a "scam," Donald Trump has entered the cryptocurrency market, but his new remarks raise questions about whether he truly understands the field he’s entering. The former president and his three sons have launched World Liberty Financial (WLFI), a new cryptocurrency aimed at making the United States the “crypto capital of the world.”
+
+But his ambiguous and frequently perplexing remarks regarding the initiative have made people wonder if he understands what he’s advocating.
+
+Don't Miss:
+
+    If you invested $100 in DOGE when Elon Musk first tweeted about it in 2019, here’s how much you’d have today.
+
+    1 in 4 Americans own a share of Bitcoin according to NASDAQ, how many people got started through this free crypto faucet?
+
+"Crypto is one of those things we have to do," Trump stated, before veering off into a ramble that included references to artificial intelligence and high-tech jargon. "Whether we like it or not, I have to do it ... It's crypto, it's AI, it's some of the other things," he said, leaving many listeners scratching their heads.
+
+See Also: Dogecoin millionaires are increasing – investors with $1M+ in DOGE revealed!
+
+This confusing rhetoric marks a stark departure from Trump's previous stance on digital assets. Just a few years ago, he condemned Bitcoin as a threat to the U.S. dollar and warned of its use in illegal activities. But according to his most recent financial form, since declaring his candidacy for president again, Trump has allegedly invested between $1 and $5 million in Ethereum in addition to accepting millions of dollars in cryptocurrency donations.
+
+WLFI is being promoted as a stablecoin pegged to the U.S. dollar, supposedly offering a solution to the volatility that plagues other cryptocurrencies. The project has been spearheaded by Trump's sons, Eric and Donald Trump Jr., who have positioned it as a way for ordinary Americans to reclaim financial power from traditional banks.
+
+Trending: Groundbreaking trading app with a ‘Buy-Now-Pay-Later' feature for stocks tackles the $644 billion margin lending market – here’s how to get equity in it with just $500
+
+On the other hand, critics argue that there are potentially many conflicts of interest in this venture, especially if Trump is reelected and uses his executive power to deregulate the cryptocurrency market, which some people expect him to do and which would, at the same time, benefit his family’s company.
+
+Trending: Amid the ongoing EV revolution, previously overlooked low-income communities now harbor a huge investment opportunity at just $500.
+
+According to Bloomberg, the project's key dealmaker, Chase Herro, has a dubious past that includes promoting questionable products and making ethically questionable statements like “If you do this right, who f—ing cares if it goes to zero.” In a 2018 YouTube video, he boasted about being able to sell “shit in a can, wrapped in piss, covered in human skin, for a billion dollars if the story’s right.”
+
+While Trump and his team promote WLFI as a stable financial tool, past events tell a different story. The crash of the Terra-Luna stablecoin wiped out nearly $2 trillion from the crypto market, causing huge losses for many investors. On top of that, stablecoins have been tied to money laundering and other illegal activities, making people cautious about using them widely.
+
+TheStreet
+How Sui surged 100% to pass Bitcoin and Ethereum with a bet on gaming
+Coinage
+Sun, September 29, 2024 at 7:00 AM CST 4 min read
+
+Bitcoin and Ethereum rebounded slightly in September, but both blockchains paled in comparison to Sui, which rallied 100% for the month.
+
+The Ethereum competitor, which boasts far faster transaction speeds than most alternatives in the space, has largely bet that Web3 gaming will be its breakthrough use case. That bet seems to be paying off with its token up 103% since the beginning of the month. Bitcoin and Ethereum traded up 11% and 6% for the month, respectively.
+
+Mysten Labs co-founder Evan Cheng recently described why Sui sees so much potential in gaming that it helped launch the first Web3-dedicated gaming device, the SuiPlay0x1 this month. As Cheng says, it’s about building a platform that redefines what ownership can mean in the digital age.
+
+“Sui is not just a blockchain. It’s a platform for developers,” Cheng emphasized during an interview with Coinage, making it clear that the project’s ambition is to be a lot more than just a ledger for transactions.
+
+When asked about the decision to go beyond software and dive into hardware, Cheng highlighted the importance of solving a fundamental issue: Distribution. “You know, probably a lot of times people think about, like, oh, what can Web3 and crypto do for consumers — that’s very important to figure out,” Cheng explained. “But before that, how do we help developers figure out the new business model that can last? It’s just as important.”
+
+That’s where Sui's bet on its gaming device comes in. By providing a tight integration between hardware and the Sui ecosystem, the team is crafting a unique offering that could unlock new possibilities for developers, much in the same way Apple's iPhone later enabled its App store. The device will cost $599 and offer unlocks that may very well pay for itself.
+
+Cheng sees this device as more than just a gaming PC or a typical handheld console—it’s a critical channel for distribution. “We know this is a device people are going to love because it can do more than your typical handheld gaming PC, but it has the tight integration with Sui,” he added, underscoring that this strategy will help bring “new experiences” to both users and developers.
+
+It’s a bold claim, considering that Sui's mainnet only went live in May of last year. While other projects are still navigating the waters of establishing a user base and developer ecosystem, Mysten Labs is doubling down on what it believes to be the missing piece of the puzzle — ownership and distribution through hardware. For Cheng and the team at Mysten Labs, success doesn’t just come down to deploying code and watching the blockchain run; it’s about crafting a holistic experience that solves fundamental problems.
+
+“Building an ecosystem is organic,” Cheng noted, reflecting on the journey so far. “We have very clear signals that we know what each of these tasks are about. Keeping Sui healthy at the forefront of this technology race is one thing, and solving distribution is another.” Solving user experience issues and minimizing the frictions of onboarding are also high priorities for the team, which Cheng attributes to their collective experience in tech and finance.
+
+The relentless pace at which Mysten Labs has been moving since mainnet launch is something that Cheng is clearly proud of. But as he pointed out, it’s not about moving fast for the sake of it. “There is a plan behind it, right? This kind of goes back to the amazing team, the amazing vision that we have,” he said. And with a few more things slated to launch soon, the excitement is palpable.
+
+Ultimately, Mysten Labs isn’t just focused on being the next big blockchain. It’s aiming to be a platform for developers to experiment, innovate, and push the boundaries of what’s possible in the digital economy.
+
+If Sui’s aggressive push into hardware proves successful, it could be a game changer for how projects tackle the challenge of distribution and user engagement in Web3. And for Cheng, it’s clear that Sui is determined to lead the charge into this next chapter of blockchain evolution.
